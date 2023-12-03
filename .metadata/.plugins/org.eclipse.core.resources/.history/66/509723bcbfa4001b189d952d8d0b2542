@@ -1,0 +1,13 @@
+package com.vegetable.config;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VegetableApp2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

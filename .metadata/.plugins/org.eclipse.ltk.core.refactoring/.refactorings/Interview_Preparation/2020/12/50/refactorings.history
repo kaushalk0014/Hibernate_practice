@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kk.string.capitalizeWord.java&apos; to &apos;CapitalizeWord.java&apos;&#x0D;&#x0A;- Original project: &apos;Interview_Preparation&apos;&#x0D;&#x0A;- Original element: &apos;com.kk.string.capitalizeWord.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kk.string.CapitalizeWord.java&apos;" description="Rename compilation unit &apos;capitalizeWord.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kk.string{capitalizeWord.java" name="CapitalizeWord.java" references="false" stamp="1607506649793" version="1.0"/>
+</session>

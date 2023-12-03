@@ -1,0 +1,5 @@
+package com.kk.spring.immutable;
+
+public class ImmutableClass {
+
+}

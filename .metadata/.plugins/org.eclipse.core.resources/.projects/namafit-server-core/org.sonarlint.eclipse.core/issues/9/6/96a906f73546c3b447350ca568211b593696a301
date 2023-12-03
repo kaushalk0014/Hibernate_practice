@@ -1,0 +1,9 @@
+
+Œsquid:UselessImportCheck"RRemove this unused import 'org.springframework.beans.factory.annotation.Required'.(‘™ê¢HªBRMINORZ
+CODE_SMELL
+†squid:UselessImportCheck"LRemove this unused import 'org.springframework.jdbc.BadSqlGrammarException'.(«¤Û€H«BRMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.InitializingBean'.(åÑ¦œH¬BRMINORZ
+CODE_SMELL
+ˆsquid:UselessImportCheck"NRemove this unused import 'org.apache.commons.lang3.exception.ExceptionUtils'.(ÉòÅ¸H­BRMINORZ
+CODE_SMELL

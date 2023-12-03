@@ -1,0 +1,12 @@
+
+`squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶ØØº/HºÛRMINORZVULNERABILITY
+–squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "bank".(·½³Úûÿÿÿÿ8èÆ¹Ë¾/H»ÛRMINORZ
+CODE_SMELL
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾†İº/H¼ÛRMINORZVULNERABILITY
+`squid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÆ¹Ë¾/H½ÛRMINORZVULNERABILITY
+m
+squid:S106#"9Replace this use of System.out or System.err by a logger.(€ËÆÊ8ëÔŸº/H¾ÛRMAJORZ
+CODE_SMELL
+`squid:S11685"+Return an empty collection instead of null.(¥¹ï8èÆ¹Ë¾/H¿ÛRMAJORZ
+CODE_SMELL
+`squid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8®«¼Ë¾/HÀÛRMINORZVULNERABILITY

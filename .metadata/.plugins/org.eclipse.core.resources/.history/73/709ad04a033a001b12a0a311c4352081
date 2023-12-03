@@ -1,0 +1,18 @@
+package com.kk.string;
+
+public class CapitalizeWord {
+	
+	static String capitalizeSentence(String str) {
+		String capitalizeWord=null;
+		String strArr[]=str.split("\\s");
+		for (String string : strArr) {
+			System.out.println(string.substring(0,1));
+			System.out.println(string.substring(1));
+		}
+		return capitalizeWord;
+	}
+	
+	public static void main(String[] args) {
+		CapitalizeWord.capitalizeSentence("Ram");
+	}
+}

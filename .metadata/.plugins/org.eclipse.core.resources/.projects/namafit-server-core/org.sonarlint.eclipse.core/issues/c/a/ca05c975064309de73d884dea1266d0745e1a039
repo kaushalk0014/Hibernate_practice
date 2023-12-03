@@ -1,0 +1,13 @@
+
+™squid:S1192‚"hDefine a constant instead of duplicating this literal "Failed to access account using token {}" 3 times.(µ©“HñARCRITICALZ
+CODE_SMELL
+|squid:S1192?"GDefine a constant instead of duplicating this literal "fields" 3 times.(’ÕÈÚıÿÿÿÿHòARCRITICALZ
+CODE_SMELL
+[squid:S1659+")Declare "fbAppSecret" on a separate line.(‹³úøÿÿÿÿHóARMINORZ
+CODE_SMELL
+_squid:S1659+"-Declare "namafitPageName" on a separate line.(‹³úøÿÿÿÿHôARMINORZ
+CODE_SMELL
+Wsquid:S1659+"%Declare "baseUrl" on a separate line.(‹³úøÿÿÿÿHõARMINORZ
+CODE_SMELL
+^squid:S1659+",Declare "namaAdminFBUid" on a separate line.(‹³úøÿÿÿÿHöARMINORZ
+CODE_SMELL

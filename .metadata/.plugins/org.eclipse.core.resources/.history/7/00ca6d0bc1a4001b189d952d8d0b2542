@@ -1,0 +1,32 @@
+package com.vegetable.config;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import java.util.ArrayList;
+
+import org.assertj.core.util.Arrays;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.MethodSource;
+import org.springframework.boot.test.context.SpringBootTest;
+
+class VegetableApp2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+		assertEquals("a", "a");
+	}
+	
+	  public static int[][] data() {
+	        return new int[][] { { 1 , 2, 2 }, { 5, 3, 15 }, { 121, 4, 484 } };
+	    }
+	
+	@ParameterizedTest
+    @MethodSource(value =  "data")
+    void testWithStringParameter(int[] data) {
+		int[][] ints=Arrays.array(data);
+		System.out.println(ints+"=======================================");
+		assertEquals("a", "a");
+	}
+
+}

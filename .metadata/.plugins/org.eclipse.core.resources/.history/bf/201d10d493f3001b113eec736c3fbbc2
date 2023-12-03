@@ -1,0 +1,28 @@
+package com.kk.Java8Example.flatterMap;
+
+import java.util.List;
+
+public class Customer {
+
+    private  Integer id;
+    private String name;
+    private String email;
+    private List<String> mpbile;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Customer setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+}

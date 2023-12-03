@@ -1,0 +1,10 @@
+
+usquid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¾‚üÈÏ.H„RMINORZ
+CODE_SMELL
+esquid:S1602",Remove useless curly braces around statement(…ßºõşÿÿÿÿ8ËûÇÈÏ.H…RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì÷ÈÈúÿÿÿÿ8ËûÇÈÏ.H†RMAJORZ
+CODE_SMELL
+\squid:S1604"(Make this anonymous inner class a lambda(¤ş„”8ËûÇÈÏ.H‡RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+„squid:S3008"RRename this field "HEADERs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÂª•üÿÿÿÿH‘RMINORZ
+CODE_SMELL
+ysquid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(¯¾ØôùÿÿÿÿHRMAJORZ
+CODE_SMELL
+}squid:S3008"PRename this field "SHEET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ïƒ–H’RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(­­ÿ¦8¯ÇÒ·¸.H¹RMAJORZ
+CODE_SMELL

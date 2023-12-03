@@ -1,0 +1,21 @@
+
+Ysquid:S1604"(Make this anonymous inner class a lambda(å ƒ¬şÿÿÿÿHTRMAJORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸õíHURMINORZ
+CODE_SMELL
+c
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¿ô;HVRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(å¿ƒÅHWRMAJORZ
+CODE_SMELL
+„squid:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(µÚ¿¡ÿÿÿÿÿHXRMINORZ
+CODE_SMELL
+c
+squid:S106)"9Replace this use of System.out or System.err by a logger.(™¿ô;HYRMAJORZ
+CODE_SMELL
+`squid:S1611+"4Remove the parentheses around the "person" parameter(òñ—üHZRMINORZ
+CODE_SMELL
+d
+squid:S106+"9Replace this use of System.out or System.err by a logger.(òñ—üH[RMAJORZ
+CODE_SMELL

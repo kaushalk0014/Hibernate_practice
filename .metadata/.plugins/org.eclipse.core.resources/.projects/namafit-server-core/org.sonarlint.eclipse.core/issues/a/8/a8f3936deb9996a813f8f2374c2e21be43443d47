@@ -1,0 +1,26 @@
+
+squid:UselessImportCheck	"NRemove this unused import 'org.springframework.data.jpa.repository.Modifying'.(—·Ñ”şÿÿÿÿH®BRMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿH¯BRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH°BRMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"6Remove this unused import 'org.hibernate.Transaction'.(ìÌè³H±BRMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck"9Remove this unused import 'com.namasub.domain.UserImage'.(Û’ÊùÿÿÿÿH²BRMINORZ
+CODE_SMELL
+squid:UselessImportCheck"@Remove this unused import 'javax.persistence.EntityTransaction'.(¶“çğüÿÿÿÿH³BRMINORZ
+CODE_SMELL
+”squid:UselessImportCheck"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿH´BRMINORZ
+CODE_SMELL
+Xsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHµBRMINORZVULNERABILITY
+j
+squid:S1064"9Replace this use of System.out or System.err by a logger.(›²÷…ùÿÿÿÿH¶BRMAJORZ
+CODE_SMELL
+e
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ıİ‘ÌH·BRMAJORZ
+CODE_SMELL
+Tsquid:S1068"'Remove this unused "LOG" private field.(×õÈ¤H¸BRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ÏÕæ­ÿÿÿÿÿH¹BRMAJORZ
+CODE_SMELL

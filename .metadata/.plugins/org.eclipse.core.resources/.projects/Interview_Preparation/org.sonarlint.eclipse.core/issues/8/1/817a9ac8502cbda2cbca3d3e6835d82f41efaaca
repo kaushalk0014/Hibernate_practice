@@ -1,0 +1,16 @@
+
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üþÿÿÿÿ8•Ïì¹Ï.H¿RMINORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ï¤ã¬8•Ïì¹Ï.HÁRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄƒÁ½8•Ïì¹Ï.HÀRMAJORZ
+CODE_SMELL
+…squid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ÄÚžö8•Ïì¹Ï.HÂRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(õà…¹ýÿÿÿÿ8•Ïì¹Ï.HÃRMAJORZ
+CODE_SMELL
+asquid:S1604"(Make this anonymous inner class a lambda(˜Öõòþÿÿÿÿ8•Ïì¹Ï.H½RMAJORZ
+CODE_SMELL

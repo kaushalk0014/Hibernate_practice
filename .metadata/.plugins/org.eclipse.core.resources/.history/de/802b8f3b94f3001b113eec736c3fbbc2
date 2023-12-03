@@ -1,0 +1,7 @@
+package com.kk.Java8Example.flatterMap;
+
+public class MyDB {
+    public  void getAll(){
+
+    }
+}

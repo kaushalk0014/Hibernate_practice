@@ -1,0 +1,12 @@
+package com.kk.spring.immutable;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		ImmutableClass class1=new ImmutableClass(333);
+		System.out.println(class1);
+		ImmutableClass classs=new ImmutableClass(333);
+		System.out.println(classs);
+		
+	}
+}

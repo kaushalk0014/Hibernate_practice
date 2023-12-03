@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+	<class name="com.kk.entity.Employee" table="GST_USER"> 
+	<cache usage="read-only"/>
+	<id name="userId" type="int" column="user_Id">
+			<generator class="native"/>
+		</id>
+		<property name="usernae" column="user_name" type="string" length="100"/>
+		<property name="jobType" column="job_Type" type="string" length="100"/>
+	</class>
+</hibernate-mapping>

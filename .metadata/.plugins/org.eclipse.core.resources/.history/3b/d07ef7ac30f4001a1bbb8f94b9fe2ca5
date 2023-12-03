@@ -1,0 +1,19 @@
+package com.kk.interview;
+
+public class StringPoolMain {
+
+	public static void main(String[] args) {
+		String s1="car";
+		String s2="car";
+		System.out.println(s1.hashCode());
+		System.out.println(s2.hashCode());
+		
+		String s3=new String("car");
+		String s4=new String("car");
+		System.out.println(s3.hashCode());
+		System.out.println(s4.hashCode());
+		System.out.println(s1==s2);
+		System.out.println(s1==s3);
+		
+	}
+}

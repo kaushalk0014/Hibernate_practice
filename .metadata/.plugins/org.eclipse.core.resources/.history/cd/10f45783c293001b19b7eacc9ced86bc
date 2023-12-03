@@ -1,0 +1,21 @@
+package com.kk.mergearray;
+
+public class TestApp {
+	class TestH extends Thread {
+
+		public static void main(String[] args) throws InterruptedException {
+			TestH tt = new TestH();
+			Thread thread = new Thread(tt);
+			thread.start();
+			thread.run();
+			thread.wait();
+
+		}
+
+		@Override
+		public void run() {
+			super.run();
+			System.out.println("33333333333");
+		}
+	}
+}

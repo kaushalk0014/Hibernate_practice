@@ -1,0 +1,9 @@
+
+Nsquid:S1643
+"Use a StringBuilder instead.(Ø”ÒŠøÿÿÿÿHÌBRMINORZ
+CODE_SMELL
+esquid:S1197"8Move the array designator from the variable to the type.(ÑÍé˜HÍBRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê§ÉšüÿÿÿÿHÎBRMAJORZ
+CODE_SMELL

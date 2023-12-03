@@ -1,0 +1,19 @@
+package com.kk.Java8Example;
+
+public class TestClassA {
+	private static final TestClassA sd=new TestClassA();
+	public static TestClassA get() {
+		return sd;
+	}
+	
+	public static void main(String[] args) {
+		String personName="kaushal";
+		char charArr[]=personName.toCharArray();
+		
+		StringBuffer revName=new StringBuffer();
+		for(int i=charArr.length;i>0;i--){
+			revName.append(String.valueOf(charArr[i]));
+		}
+		System.out.println(revName);
+	}
+}

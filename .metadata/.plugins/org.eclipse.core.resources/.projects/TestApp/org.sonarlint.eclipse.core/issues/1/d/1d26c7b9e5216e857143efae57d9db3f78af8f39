@@ -1,0 +1,23 @@
+
+Xsquid:S1612-",Replace this lambda with a method reference.(îÅâ¾HuRMINORZ
+CODE_SMELL
+Œsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀËº‚ûÿÿÿÿHvRMINORZ
+CODE_SMELL
+fsquid:S1611,"5Remove the parentheses around the "product" parameter(ÑöÚØûÿÿÿÿHwRMINORZ
+CODE_SMELL
+]squid:S1612/",Replace this lambda with a method reference.(â˜İşÿÿÿÿHxRMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°°³íHyRMINORZ
+CODE_SMELL
+d
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ï¨æ§HzRMAJORZ
+CODE_SMELL
+i
+squid:S106/"9Replace this use of System.out or System.err by a logger.(â˜İşÿÿÿÿH{RMAJORZ
+CODE_SMELL
+asquid:S1611-"5Remove the parentheses around the "product" parameter(îÅâ¾H|RMINORZ
+CODE_SMELL
+„squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–çİH}RMINORZ
+CODE_SMELL
+dsquid:S1611/"3Remove the parentheses around the "price" parameter(â˜İşÿÿÿÿH~RMINORZ
+CODE_SMELL

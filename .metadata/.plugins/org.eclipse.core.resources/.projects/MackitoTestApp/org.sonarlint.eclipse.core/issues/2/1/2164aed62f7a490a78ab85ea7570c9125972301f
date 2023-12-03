@@ -1,0 +1,19 @@
+
+“squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(יאלע‎ÿÿÿÿ8©Ùו¾/HִÛRMINORZ
+CODE_SMELL
+‚squid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Üךÿüÿÿÿÿ8©Ùו¾/HֵÛRMINORZ
+CODE_SMELL
+“squid:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(יאלע‎ÿÿÿÿ8כÿ¾÷/HֶÛRMINORZ
+CODE_SMELL
+„squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ֿ’׀ÿÿÿÿÿ8נודÊ¾/HַÛRMINORZ
+CODE_SMELL
+‚squid:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ו­בƒûÿÿÿÿ8Û¾־÷/HָÛRMINORZ
+CODE_SMELL
+—squid:UselessImportCheck
+"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(הƒא°שÿÿÿÿ8נודÊ¾/HֹÛRMINORZ
+CODE_SMELL
+{squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ƒץ‎ֳ8כÿ¾÷/HÊÛRCRITICALZVULNERABILITY
+“squid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿַן׳רÿÿÿÿ8כÿ¾÷/HֻÛRMINORZ
+CODE_SMELL
+“squid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸«÷‏ÿÿÿÿ8©Ùו¾/HּÛRMINORZ
+CODE_SMELL

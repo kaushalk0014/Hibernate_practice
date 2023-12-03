@@ -1,0 +1,9 @@
+
+¹%squid:RedundantThrowsDeclarationCheck<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(×“ËÛþÿÿÿÿHìÞRMINORZ
+CODE_SMELL
+}squid:CallToDeprecatedMethod3"?Remove this use of "WebMvcConfigurerAdapter"; it is deprecated.(¯¤¢HHíÞRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Ÿ””9HîÞRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü¸êÈHïÞRMAJORZ
+CODE_SMELL

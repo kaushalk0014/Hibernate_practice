@@ -1,0 +1,17 @@
+
+`squid:S1602",Remove useless curly braces around statement(´ðåâ8‰·ŒºÏ.HâRMINORZ
+CODE_SMELL
+`squid:S1612",Replace this lambda with a method reference.(´ðåâ8‰·ŒºÏ.HáRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€…¯Éùÿÿÿÿ8ìË™ºÏ.HäRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶«ôµÿÿÿÿÿ8‰·ŒºÏ.HÚRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8šÏì¹Ï.HàRMAJORZ
+CODE_SMELL
+ssquid:S2259"FA "NullPointerException" could be thrown; "highNums" is nullable here.(´ðåâ8ßïžºÏ.HæRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8ßïžºÏ.HçRMAJORZ
+CODE_SMELL

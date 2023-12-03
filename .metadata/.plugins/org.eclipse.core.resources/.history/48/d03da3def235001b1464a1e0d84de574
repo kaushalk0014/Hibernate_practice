@@ -1,0 +1,14 @@
+package com.kk.string;
+
+public class StringTest {
+
+	public static void main(String[] args) {
+		String s="ram";
+		String s1="ram";
+		System.out.println(s.hashCode());
+		String ss=new String("ram");
+		System.out.println(s==s1);
+		System.out.println(s.equals(ss));
+		
+	}
+}

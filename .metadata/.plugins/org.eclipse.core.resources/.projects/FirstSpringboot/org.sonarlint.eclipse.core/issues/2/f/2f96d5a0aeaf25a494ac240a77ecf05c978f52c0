@@ -1,0 +1,6 @@
+
+€squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ä…ÐÄùÿÿÿÿ8œ¸ÝÄÞ0HƒÛRCRITICALZVULNERABILITY
+{squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(è‚‹ÑýÿÿÿÿH„ÛRMINORZ
+CODE_SMELL
+„squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ê·¹‹øÿÿÿÿ8œ¸ÝÄÞ0H…ÛRMINORZ
+CODE_SMELL

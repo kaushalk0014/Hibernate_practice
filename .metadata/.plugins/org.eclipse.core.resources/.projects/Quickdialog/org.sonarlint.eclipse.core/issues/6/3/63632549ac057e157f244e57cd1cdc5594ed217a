@@ -1,0 +1,27 @@
+
+‘squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿH¹ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck""EReorder the modifiers to comply with the Java Language Specification.(Œ™…ÏHºÜRMINORZ
+CODE_SMELL
+wsquid:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¾ëÌoH»ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™íÕúÿÿÿÿH¼ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck/"EReorder the modifiers to comply with the Java Language Specification.(–ÈˆÌH½ÜRMINORZ
+CODE_SMELL
+xsquid:S4488."JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ì¦®¨H¾ÜRMINORZ
+CODE_SMELL
+‡squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH¿ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck7"EReorder the modifiers to comply with the Java Language Specification.(Ã‡³HÀÜRMINORZ
+CODE_SMELL
+xsquid:S44886"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ìÄó¥HÁÜRMINORZ
+CODE_SMELL
+‡squid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒHÂÜRMINORZ
+CODE_SMELL
+†squid:ModifiersOrderCheck>"EReorder the modifiers to comply with the Java Language Specification.(»·éµıÿÿÿÿHÃÜRMINORZ
+CODE_SMELL
+xsquid:S4488="JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(÷ğ²™HÄÜRMINORZ
+CODE_SMELL
+Œsquid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ™íÕúÿÿÿÿHÅÜRMINORZ
+CODE_SMELL

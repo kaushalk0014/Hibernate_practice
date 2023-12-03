@@ -1,0 +1,35 @@
+
+Èsquid:S1192§"‘Define a constant instead of duplicating this literal "Couldn't find business profile with stripe id {} when trying to update info for " 3 times.(½‰­úÿÿÿÿH‰BRCRITICALZ
+CODE_SMELL
+[squid:S1199„"-Extract this nested code block into a method.(Œ«­àHŠBRMINORZ
+CODE_SMELL
+[squid:S1199"-Extract this nested code block into a method.(º½¬H‹BRMINORZ
+CODE_SMELL
+[squid:S1199­"-Extract this nested code block into a method.(ùò¹ßHŒBRMINORZ
+CODE_SMELL
+[squid:S1199Ã"-Extract this nested code block into a method.(ôÑ¡ˆHBRMINORZ
+CODE_SMELL
+Xsquid:S16592"+Declare "sponsorPlanId" on a separate line.(Á–¼HBRMINORZ
+CODE_SMELL
+esquid:S16595"3Declare "sponsorPlanDefaultAmt" on a separate line.(È ­¬ÿÿÿÿÿHBRMINORZ
+CODE_SMELL
+`squid:S16595".Declare "sponsorSingleAmt" on a separate line.(È ­¬ÿÿÿÿÿHBRMINORZ
+CODE_SMELL
+dsquid:S1611Y"2Remove the parentheses around the "acct" parameter(¬È£ÔüÿÿÿÿH‘BRMINORZ
+CODE_SMELL
+ˆsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(±œØéûÿÿÿÿH’BRCRITICALZ
+CODE_SMELL
+esquid:S1611ê"2Remove the parentheses around the "acct" parameter(¬È£ÔüÿÿÿÿH“BRMINORZ
+CODE_SMELL
+ˆsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÉäµƒùÿÿÿÿH”BRCRITICALZ
+CODE_SMELL
+o"squid:SwitchLastCaseIsDefaultCheckƒ""Add a default case to this switch.(…şÛìûÿÿÿÿH•BRCRITICALZ
+CODE_SMELL
+\squid:S1659"/Declare "businessProfileId" on a separate line.(áİÙH–BRMINORZ
+CODE_SMELL
+Ysquid:S1659‘"&Declare "metaData" on a separate line.(°×¨«úÿÿÿÿH—BRMINORZ
+CODE_SMELL
+Xsquid:S1659’"%Declare "cardMap" on a separate line.(èû üÿÿÿÿH˜BRMINORZ
+CODE_SMELL
+Xsquid:S1659¦"%Declare "cardMap" on a separate line.(èû üÿÿÿÿH™BRMINORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+
+~squid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ί‹ΞΣψÿÿÿÿ8ο”αχ/HΥ½RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ν•”ϊÿÿÿÿ8ο”αχ/HΦ½RMAJORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛƒÔùHŠ	RMAJORZ
+CODE_SMELL
+‘squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ïòæ¼øÿÿÿÿH„	RMAJORZ
+CODE_SMELL
+{squid:S1192"FDefine a constant instead of duplicating this literal "kumar" 3 times.(´”óŸúÿÿÿÿH‚	RCRITICALZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿH†	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÀ×øÿÿÿÿH‹	RMAJORZ
+CODE_SMELL
+Usquid:S2201"*The return value of "concat" must be used.(´”óŸúÿÿÿÿH…	RMAJORZBUG
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¨ :Hˆ	RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(á˜¾šH‰	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(³²ó¹ûÿÿÿÿH‡	RMAJORZ
+CODE_SMELL
+‘squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™Áƒ†øÿÿÿÿHƒ	RMAJORZ
+CODE_SMELL

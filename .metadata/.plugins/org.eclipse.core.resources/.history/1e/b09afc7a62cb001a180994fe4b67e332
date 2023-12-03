@@ -1,0 +1,43 @@
+package com.excel.service;
+
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.util.List;
+
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.springframework.stereotype.Service;
+
+import com.excel.bean.Employee;
+
+@Service
+public class AppServiceImpl implements AppService {
+	  static String SHEET = "Tutorials";
+
+	@Override
+	public  ByteArrayInputStream  load() {
+		Workbook workbook = new XSSFWorkbook();
+		
+		Sheet sheet = Workbook.createSheet("Tutorials");
+		int rowIdx = 1;
+		for (Employee employee : getEmployee()) {
+		  Row row = sheet.createRow(rowIdx++);
+
+		  row.createCell(0).setCellValue(employee.getEmpId());
+		  row.createCell(1).setCellValue(employee.getName());
+		  row.createCell(2).setCellValue(employee.getSalary());
+		}
+
+		ByteArrayOutputStream out = new ByteArrayOutputStream();
+		workbook.write(out);
+		return new ByteArrayInputStream(out.toByteArray());
+	}
+
+	private List<Employee> getEmployee() {
+		 
+		return null;
+	}
+
+}

@@ -1,0 +1,9 @@
+
+„squid:UselessImportCheck"ERemove this unused import 'com.namasub.domain.dto.PrivateMessageDto'.(°àÂıÿÿÿÿHºBRMINORZ
+CODE_SMELL
+wsquid:UselessImportCheck	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿH»BRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¼BRMINORZ
+CODE_SMELL
+_squid:S1905"-Remove this unnecessary cast to "BigInteger".(ò»Ş†úÿÿÿÿH½BRMINORZ
+CODE_SMELL

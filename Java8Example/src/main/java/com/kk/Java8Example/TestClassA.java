@@ -1,0 +1,47 @@
+package com.kk.Java8Example;
+
+public class TestClassA {
+	 
+	public static void main(String[] args) {
+		isPrime();
+		reverseName();
+		String personName="kaushal";
+		char charArr[]=personName.toCharArray();
+		
+		StringBuffer revName=new StringBuffer();
+		for(int i=charArr.length-1;i>=0;i--){
+			revName.append(String.valueOf(charArr[i]));
+		}
+		System.out.println(revName);
+	}
+	
+	public static void isPrime() {
+		Long mNumber=new Long(312);
+		
+		boolean  flag=true;
+		for(int i=2;i<mNumber;i++){
+			if(mNumber%i==0){
+				 flag=false;
+			}
+		}
+		
+		if(flag){
+			System.out.println(" Given number is prime:  "+mNumber);
+		}else {
+			System.out.println(" Given number is not prime:  "+mNumber);
+		}
+	}
+	
+	
+	public static void reverseName() {
+		String personName="kaushal";
+		char charArr[]=personName.toCharArray();
+		
+		StringBuffer revName=new StringBuffer();
+		for(int i=charArr.length-1;i>=0;i--){
+			revName.append(String.valueOf(charArr[i]));
+		}
+		
+		System.out.println("Person name  reverse :  "+revName);
+	}
+}

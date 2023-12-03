@@ -1,0 +1,21 @@
+
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ò‰˜åØ.H÷RMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÞæž8šò‘åØ.HíRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹“ýÇýÿÿÿÿ8¤¼‰åØ.HÜRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŽŒý’8¤¼‰åØ.HÞRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ö“¤øÿÿÿÿ8¤¼‰åØ.HßRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬¥ƒÜ8¤¼‰åØ.HÝRMAJORZ
+CODE_SMELL
+esquid:S1143"5Remove this return statement from this finally block.(ºÎ³­8¤¼‰åØ.HÛRCRITICALZBUG
+_squid:S1481	"&Remove this unused "a" local variable.(£éþýüÿÿÿÿ8ðÌ‹åØ.HåRMINORZ
+CODE_SMELL
+xsquid:S3518	"CMake sure this expression can't be zero before doing this division.(£éþýüÿÿÿÿ8›äŒåØ.HèRCRITICALZBUG

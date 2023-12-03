@@ -1,0 +1,16 @@
+
+<web-app>
+     <servlet>
+         <servlet-name>LifeCycleServlet</servlet-name>
+         <servlet-class>com.test.FirstServletExample</servlet-class>
+    </servlet>
+    <servlet-mapping>
+         <servlet-name>LifeCycleServlet</servlet-name>
+         <url-pattern>/test</url-pattern>
+    </servlet-mapping>
+    <session-config>
+    	<session-timeout>
+             30
+    	</session-timeout>
+    </session-config>
+</web-app>

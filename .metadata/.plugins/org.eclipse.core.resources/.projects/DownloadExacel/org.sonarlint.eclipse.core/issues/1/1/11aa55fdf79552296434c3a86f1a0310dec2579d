@@ -1,0 +1,10 @@
+
+~squid:UselessImportCheck
+"8Remove this unused import 'org.apache.poi.util.IOUtils'.(­›°Ğùÿÿÿÿ8¸ºÙ·¸.HÌRMINORZ
+CODE_SMELL
+¶%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(âÂÙ‹úÿÿÿÿHÍRMINORZ
+CODE_SMELL
+’squid:UselessImportCheck"LRemove this unused import 'org.springframework.core.io.InputStreamResource'.(¡±ù”ıÿÿÿÿ8¸ºÙ·¸.HÎRMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8¸ºÙ·¸.HÏRMINORZ
+CODE_SMELL

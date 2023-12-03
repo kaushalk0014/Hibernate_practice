@@ -1,0 +1,48 @@
+
+‹squid:UselessImportCheck
+"PRemove this unused import 'org.springframework.web.bind.annotation.CrossOrigin'.(º´Ñ†H–ÜRMINORZ
+CODE_SMELL
+qsquid:S1155I">Use isEmpty() to check whether the collection is empty or not.(‡Æ¯ÿÿÿÿÿH—ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(Ö·¬ƒH˜ÜRMINORZ
+CODE_SMELL
+xsquid:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²ô²íH™ÜRMINORZ
+CODE_SMELL
+‡squid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒHšÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck6"EReorder the modifiers to comply with the Java Language Specification.(™å¾÷H›ÜRMINORZ
+CODE_SMELL
+{squid:S44885"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(¼± úÿÿÿÿHœÜRMINORZ
+CODE_SMELL
+Œsquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¼·ùÿÿÿÿHÜRMINORZ
+CODE_SMELL
+‡squid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒHÜRMINORZ
+CODE_SMELL
+†squid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(÷Ğ¡şùÿÿÿÿHŸÜRMINORZ
+CODE_SMELL
+{squid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(º‘°’ùÿÿÿÿH ÜRMINORZ
+CODE_SMELL
+‡squid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖğØ H¡ÜRMINORZ
+CODE_SMELL
+†squid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(¢ÑÒÃıÿÿÿÿH¢ÜRMINORZ
+CODE_SMELL
+vsquid:S4488U"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Œ®¥¥H£ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëáìÂÿÿÿÿÿH¤ÜRMINORZ
+CODE_SMELL
+‡squid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH¥ÜRMINORZ
+CODE_SMELL
+†squid:ModifiersOrderChecke"EReorder the modifiers to comply with the Java Language Specification.(–ƒˆÀÿÿÿÿÿH¦ÜRMINORZ
+CODE_SMELL
+|squid:S4488d"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(¢²˜ÏH§ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¼·ùÿÿÿÿH¨ÜRMINORZ
+CODE_SMELL
+‡squid:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH©ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheckn"EReorder the modifiers to comply with the Java Language Specification.(°åšñHªÜRMINORZ
+CODE_SMELL
+{squid:S4488m"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(à°ÉëùÿÿÿÿH«ÜRMINORZ
+CODE_SMELL
+‡squid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH¬ÜRMINORZ
+CODE_SMELL

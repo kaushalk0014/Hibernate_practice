@@ -1,0 +1,21 @@
+package com.kk.string;
+
+public class ReverseEachWord {
+	
+	public static String reverseEachWord(String str) {
+		String reverseWord="";
+		
+		String strArr[]=str.split("\\s");
+		for (String string : strArr) {
+			StringBuffer buffer=new StringBuffer(string);
+			reverseWord+=buffer.reverse();
+		}
+		
+		return reverseWord;
+	}
+	
+	public static void main(String[] args) {
+		String word=ReverseEachWord.reverseEachWord("kaushal kumar");
+		System.out.println("Reverse Word:  "+word);
+	}
+}

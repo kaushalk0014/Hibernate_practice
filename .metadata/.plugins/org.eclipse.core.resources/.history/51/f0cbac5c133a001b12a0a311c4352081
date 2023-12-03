@@ -1,0 +1,12 @@
+package com.kk.string;
+
+public class Testimmutablestring {
+
+	public static void main(String[] args) {
+		String k="kaushal";
+		k="kumar";
+		String ss=k.concat("kumar");
+		System.out.println(k);
+		System.out.println(ss);
+	}
+}

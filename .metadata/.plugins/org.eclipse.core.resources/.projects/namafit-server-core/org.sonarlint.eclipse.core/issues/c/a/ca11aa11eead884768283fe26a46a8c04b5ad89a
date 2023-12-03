@@ -1,0 +1,9 @@
+
+fsquid:UselessImportCheck"-Remove this unused import 'org.slf4j.Logger'.(íØ®6HıARMINORZ
+CODE_SMELL
+nsquid:UselessImportCheck"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞHşARMINORZ
+CODE_SMELL
+usquid:UselessImportCheck";Remove this unused import 'org.apache.commons.logging.Log'.(Å¼î²HÿARMINORZ
+CODE_SMELL
+|squid:UselessImportCheck"BRemove this unused import 'org.apache.commons.logging.LogFactory'.(Ç„ÍH€BRMINORZ
+CODE_SMELL

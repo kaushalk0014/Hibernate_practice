@@ -1,0 +1,8 @@
+package com.kk.Java8Example.flatterMap;
+
+public class FlatMapExample {
+
+	public static void main(String[] args) {
+		
+	}
+}

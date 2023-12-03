@@ -1,0 +1,25 @@
+
+dsquid:S4973"9Use the "equals" method if value comparison was intended.(«ç¤ÂÿÿÿÿÿHëRMAJORZBUG
+dsquid:S4973"9Use the "equals" method if value comparison was intended.(œßãüÿÿÿÿHìRMAJORZBUG
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¬ÊûÿÿÿÿHíRMAJORZ
+CODE_SMELL
+j
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ÅËİûÿÿÿÿHîRMAJORZ
+CODE_SMELL
+Msquid:S2129" Remove this "String" constructor(£î„‹HïRMAJORZ
+CODE_SMELL
+Rsquid:S2129" Remove this "String" constructor(ïş×şÿÿÿÿHğRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÖÌŞHñRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìíâ­HòRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ç¤ÂÿÿÿÿÿHóRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(œßãüÿÿÿÿHôRMAJORZ
+CODE_SMELL

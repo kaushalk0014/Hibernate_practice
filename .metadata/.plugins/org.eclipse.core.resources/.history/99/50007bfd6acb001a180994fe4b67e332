@@ -1,0 +1,71 @@
+package com.excel.controller;
+
+import java.io.IOException;
+import java.io.InputStream;
+
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.poi.util.IOUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.InputStreamResource;
+import org.springframework.core.io.Resource;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.excel.service.AppService;
+
+@RestController
+public class AppController {
+	static {
+		System.out.println("============AppController============");
+	}
+
+	@Autowired
+	private AppService appService;
+
+	@GetMapping(value="/download",produces = MediaType.APPLICATION_OCTET_STREAM_VALUE)
+	public ResponseEntity<Resource> getFile() {
+		 
+		String filename = "tutorials.xlsx";
+		InputStreamResource file = new InputStreamResource(appService.load());
+
+		return ResponseEntity.ok().header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=" + filename)
+				.contentType(MediaType.parseMediaType("application/vnd.ms-excel")).body(file);
+	}
+	
+	@GetMapping(value="/downloadExcel",produces = MediaType.APPLICATION_OCTET_STREAM_VALUE)
+	public void getFileExcel(HttpServletResponse response) {
+		 
+		String filename = "tutorials.xlsx";
+		InputStreamResource file = new InputStreamResource(appService.load());
+
+		InputStream in=new InputStream() {
+
+			@Override
+			public int read() throws IOException {
+				
+				return 0;
+			}}
+	    // Set the content type and attachment header.  for txt file
+	    response.addHeader("Content-disposition", "inline;filename=sample.txt");
+	    response.setContentType("txt/plain");
+
+	    // xls file
+	    response.addHeader("Content-disposition", "attachment;filename=sample.xls");
+	    response.setContentType("application/octet-stream");
+
+	    // Copy the stream to the response's output stream.
+	    IOUtils.copy(in, response.getOutputStream());
+	    response.flushBuffer();
+	}
+
+	@GetMapping("/home")
+	public ModelAndView  welcomePage() {
+		return new ModelAndView("index");
+	}
+
+}

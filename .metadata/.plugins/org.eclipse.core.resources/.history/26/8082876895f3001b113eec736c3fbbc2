@@ -1,0 +1,10 @@
+package com.kk.Java8Example.flatterMap;
+
+import java.util.List;
+
+public class FlatMapExample {
+
+	public static void main(String[] args) {
+		List<Customer> list=MyDB.getAll();
+	}
+}

@@ -1,0 +1,10 @@
+package com.kk.string;
+
+public class Testimmutablestring {
+
+	public static void main(String[] args) {
+		String k="kaushal";
+		k.concat("kumar");
+		System.out.println(k);
+	}
+}

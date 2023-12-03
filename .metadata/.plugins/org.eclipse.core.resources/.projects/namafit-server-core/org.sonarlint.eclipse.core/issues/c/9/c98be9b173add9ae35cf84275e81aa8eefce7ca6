@@ -1,0 +1,7 @@
+
+Wsquid:S1452ğ"&Remove usage of generic wildcard type.(Ï™ÁØHÑBRCRITICALZ
+CODE_SMELL
+vsquid:S1192E"FDefine a constant instead of duplicating this literal "from " 3 times.(‘Ÿê…HÒBRCRITICALZ
+CODE_SMELL
+‹squid:S1192/"VDefine a constant instead of duplicating this literal "select count(*) from " 3 times.(…—ÄûÿÿÿÿHÓBRCRITICALZ
+CODE_SMELL

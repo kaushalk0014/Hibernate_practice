@@ -1,0 +1,39 @@
+
+ysquid:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ÉµºÅùÿÿÿÿH‚ÜRCRITICALZVULNERABILITY
+squid:ModifiersOrderCheck'"EReorder the modifiers to comply with the Java Language Specification.( ¹óÑHƒÜRMINORZ
+CODE_SMELL
+xsquid:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²ô²íH„ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¼·ùÿÿÿÿH…ÜRMINORZ
+CODE_SMELL
+‡squid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH†ÜRMINORZ
+CODE_SMELL
+†squid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(¿ÈÄşÿÿÿÿH‡ÜRMINORZ
+CODE_SMELL
+{squid:S44883"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì³ºîüÿÿÿÿHˆÜRMINORZ
+CODE_SMELL
+‡squid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH‰ÜRMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheckF"EReorder the modifiers to comply with the Java Language Specification.(ÅíœêHŠÜRMINORZ
+CODE_SMELL
+usquid:S4488E"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ä”şH‹ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¼·ùÿÿÿÿHŒÜRMINORZ
+CODE_SMELL
+hsquid:S1858L";There's no need to call "toString()" on an array of String.(¨±ôZHÜRMINORZ
+CODE_SMELL
+hsquid:S1858L";There's no need to call "toString()" on an array of String.(¨±ôZHÜRMINORZ
+CODE_SMELL
+‡squid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒHÜRMINORZ
+CODE_SMELL
+ysquid:S4684U"@Replace this persistent entity with a simple POJO or DTO object.(ÉµºÅùÿÿÿÿHÜRCRITICALZVULNERABILITY
+squid:ModifiersOrderCheckS"EReorder the modifiers to comply with the Java Language Specification.(œ´äÿH‘ÜRMINORZ
+CODE_SMELL
+}squid:S4488R"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿¬¡£ûÿÿÿÿH’ÜRMINORZ
+CODE_SMELL
+Œsquid:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í¼·ùÿÿÿÿH“ÜRMINORZ
+CODE_SMELL
+‡squid:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(×î£ÒH”ÜRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ø·ÆùÿÿÿÿH•ÜRMAJORZ
+CODE_SMELL

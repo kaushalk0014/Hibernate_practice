@@ -1,0 +1,10 @@
+
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍŽÆ8¤‘¹ÈÉ/HøÛRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó¿ÝÝ8â‡ÀÏÎ/HùÛRMAJORZ
+CODE_SMELL
+…squid:S1192"HDefine a constant instead of duplicating this literal "kaushal" 4 times.(¶•ë¤úÿÿÿÿ8«òÎ‡¶.HúÛRCRITICALZ
+CODE_SMELL
+`squid:S1481"&Remove this unused "n" local variable.(¯Ô•Ðùÿÿÿÿ8õ¹ÂÈÉ/HûÛRMINORZ
+CODE_SMELL

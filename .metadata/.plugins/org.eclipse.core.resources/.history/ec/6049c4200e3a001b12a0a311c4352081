@@ -1,0 +1,19 @@
+package com.kk.string;
+
+public class CapitalizeWord {
+	
+	static String capitalizeSentence(String str) {
+		String capitalizeWord="";
+		String strArr[]=str.split("\\s");
+		for (String string : strArr) {
+			String first=string.substring(0,1);
+			capitalizeWord+=first.toUpperCase()+string.substring(1)+" ";
+		}
+		return capitalizeWord;
+	}
+	
+	public static void main(String[] args) {
+		String capitalizeWord= CapitalizeWord.capitalizeSentence("kaushal and puja marriage will soon");
+		System.out.println("Output:  "+capitalizeWord);
+	}
+}

@@ -1,0 +1,9 @@
+package com.excel.service;
+
+import java.io.InputStream;
+
+public interface AppService {
+
+	InputStream load();
+
+}

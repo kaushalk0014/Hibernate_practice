@@ -1,0 +1,25 @@
+package com.kk.Java8Example.flatterMap;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class FlatMapExample {
+
+	public static void main(String[] args) {
+		List<Customer> list=MyDB.getAll();
+		//list<Customer>  convert List<String> ->  Data Transformaion
+		List<String> listEmail=list.stream().map(cus->cus.getEmail()).collect(Collectors.toList());
+		System.out.println(listEmail);
+		
+		
+		List<List<String>> listMobile=list.stream().map(cus->cus.getMpbile()).collect(Collectors.toList());
+		
+		System.out.println(listMobile);
+		
+		
+		List<String> newMobile=list.stream().flatMap(cus->cus.getMpbile().stream()).collect(Collectors.toList());
+		
+		System.out.println(newMobile);
+		
+	}
+}

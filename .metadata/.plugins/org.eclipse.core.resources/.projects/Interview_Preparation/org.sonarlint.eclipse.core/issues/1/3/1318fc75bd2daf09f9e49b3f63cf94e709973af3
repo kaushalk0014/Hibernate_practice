@@ -1,0 +1,8 @@
+
+`squid:S1602",Remove useless curly braces around statement(–àÖì8«úïÇÏ.HóRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(½†´Ëýÿÿÿÿ8–ìëÇÏ.HôRMAJORZ
+CODE_SMELL
+rsquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Ü¢¡ÈÏ.HõRMINORZ
+CODE_SMELL

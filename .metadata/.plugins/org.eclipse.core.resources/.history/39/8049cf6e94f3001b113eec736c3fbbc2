@@ -1,0 +1,14 @@
+package com.kk.Java8Example.flatterMap;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Stream;
+
+public class MyDB {
+    public static List<Customer> getAll(){
+    	return Stream.of(
+    			new Customer(101, "kaushal", "kaushal@gmail.com", Arrays.asList("4257854258","7584512569"),
+    			new Customer(101, "kaushal", "kaushal@gmail.com", Arrays.asList("4257854258","7584512569"),
+    			new Customer(101, "kaushal", "kaushal@gmail.com", Arrays.asList("4257854258","7584512569")   				);
+    }
+}
